@@ -1,0 +1,14 @@
+{
+  "name": "dafa",
+  "class": "WARRIOR",
+  "level": 1,
+  "exp": 0,
+  "gold": 150,
+  "hp": 200,
+  "maxHp": 200,
+  "mana": 60,
+  "maxMana": 60,
+  "attack": 25,
+  "defense": 12,
+  "inventory": []
+}
